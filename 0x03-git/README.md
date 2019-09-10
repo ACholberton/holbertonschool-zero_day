@@ -1,0 +1,1 @@
+This directory contains a descriptions of different functions in git
